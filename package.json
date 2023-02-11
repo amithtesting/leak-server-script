@@ -1,0 +1,23 @@
+{
+  "name": "leak-server-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amithtesting/leak-server-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amithtesting/leak-server-script/issues"
+  },
+  "homepage": "https://github.com/amithtesting/leak-server-script#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
